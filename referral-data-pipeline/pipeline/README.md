@@ -244,8 +244,4 @@ The pipeline successfully produces the expected output as per the assignment req
 
 ---
 
-## 🎯 Summary
 
-When explaining this pipeline in an interview:
-
-> "This pipeline was designed with modular ETL principles, deterministic deduplication, and business-rule-driven fraud validation."
